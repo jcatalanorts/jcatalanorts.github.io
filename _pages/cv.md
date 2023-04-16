@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Download](https://github.com/jcatalanorts/jcatalanorts.github.io/files/cv.pdf)
+[Download](/files/cv.pdf "download")
